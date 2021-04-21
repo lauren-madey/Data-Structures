@@ -1,4 +1,4 @@
-11.18 Level-based Traversal of a Tree
+## 11.18 Level-based Traversal of a Tree
 
 In this lab, you need to implement a traversal of a tree that prints each level in order starting from the root. For example, if the root of a BST was 10, and it's left child was 5 and its right child was 100, it would produce the order: 10 5 100. Notice that the root goes first since its the first level, followed by 5 and 100 on the second level.
 
